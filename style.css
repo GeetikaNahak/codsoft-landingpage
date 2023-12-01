@@ -1,0 +1,79 @@
+h1 {
+    color:crimson;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 38px;
+    font-weight: bold;
+    font-variant: normal;
+     background-color: cornsilk;
+     text-shadow: 2px 2px;
+  }
+ .container {
+      display:flex;
+ }  
+ .image {
+         height:50%;
+         width:50%;
+         background-color: black;
+ }
+ .para {
+      color: rgb(0, 140, 255);
+       font-size:large;
+       background-color: honeydew;
+       font-family:cursive;
+       padding-left: 10px;
+       text-shadow: 1px 1px ;
+ }
+.logos
+{
+      text-align: right;
+      background-color: blue;
+      height:30px;
+      font-size:23px;
+      
+}
+.home{
+    color:aliceblue;
+    background-color: black;
+    height:20px;
+    font-size: 18px;
+}
+.aboutus {
+      background-color: blue;
+      color: black;
+}
+h4 {
+    font-family:cursive;  
+    font-size: 18px;
+}
+p {
+      font-size: 25px;
+}
+.ages {
+      display: flex;
+}
+body {
+      background-color: lightblue;
+}
+ a{
+      margin-left: 25px;
+}
+h2 {
+      color:maroon;
+      background-color:floralwhite;
+      position:absolute;
+      font-family:cursive;
+      font-weight: bold;
+      margin-top: 0px;
+      font-size:25px;
+}
+
+input {
+      font-weight:bold;
+}
+h6 {
+      font-weight:bold;
+      font-size:40px;
+      color:white;
+      position: absolute;
+      margin-left: 45px;
+}
